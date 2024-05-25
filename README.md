@@ -1,3 +1,3 @@
 # brace-dayz
 
-<iframe width="500" height="300" src="https://www.youtube.com/embed/_2l2DUKrX1I>" frameborder="0" allowfullscreen></iframe>
+[<img src="https://i.ytimg.com/vi/Hc79sDi3f0U/maxresdefault.jpg" width="50%">](https://www.youtube.com/watch?v=_2l2DUKrX1I "Now in Android: 55")
