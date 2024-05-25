@@ -1,5 +1,8 @@
 # Brace-Dayz
+
 ## Rever Pawn Script
+
+#### SA-MP üzerinden geliştirmiş olduğum SURVIVAL DAYZ oyun modunun sistem videoları ve kütüphane bölümüdür.
 
 #### Video (1): Zombie System v2.0
 
