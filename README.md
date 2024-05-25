@@ -1,5 +1,5 @@
 # Brace-Dayz
-# Rever Pawn Script
+## Rever Pawn Script
 
 #### Video (1): Zombie System v2.0
 
